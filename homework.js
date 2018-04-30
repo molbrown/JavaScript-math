@@ -1,4 +1,4 @@
-// 1. Set the variable `name` to the string "Addison".
+// 1. Set the variable `givenName` to the string "Addison".
 
 // 2. Set candies equal to 20, people to 6, and leftover equal
 // to the remainder of dividing 20 by 6.
