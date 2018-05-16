@@ -7,3 +7,4 @@ There are ten problems of increasing difficulty to solve in `homework.js`. Tests
 You can look at `tests.js` if you have trouble in order to see what is being tested. `tests.js` contains JavaScript that you have not seen yet, but it should be understandable.
 
 When done, read `tests.js` thoroughly and take notes on any questions you have after reading it.
+# JavaScript-math
